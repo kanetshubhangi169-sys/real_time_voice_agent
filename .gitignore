@@ -1,0 +1,40 @@
+.vscode/
+venv/
+env/
+d26/env/
+__pycache__/
+*.pyc
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# ChromaDB
+**/chroma_db/
+
+# Audio files
+*.wav
+*.mp3
+
+# Face datasets
+**/dataset/
+
+# ML models
+*.h5
+*.keras
+*.pt
+*.pth
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
